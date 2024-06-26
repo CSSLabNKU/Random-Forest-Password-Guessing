@@ -1,9 +1,9 @@
 # Random-Forest-Password-Guessing
-Code for our 2023 Usenix Security Paper "Password Guessing Using Random Forest"
+Code for our 2023 USENIX Security Paper "Password Guessing Using Random Forest"
 
 ### Research Paper
 
-The paper is available at the [Usenix Association](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-ding-password-guessing). You can cite our work with the following BibTeX entry:
+The paper is available at the [USENIX Association](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-ding-password-guessing). You can cite our work with the following BibTeX entry:
 
 ```latex
 @inproceedings{wang2023rfguess,
