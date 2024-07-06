@@ -1,5 +1,7 @@
 # Random-Forest-Password-Guessing
-Code for our 2023 USENIX Security Paper "Password Guessing Using Random Forest"
+Code for our 2023 USENIX Security Paper "Password Guessing Using Random Forest". 
+
+<b>If you decide to use our code, please cite our paper 🤝.</b>
 
 ### Research Paper
 
